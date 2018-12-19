@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ailgol2</string>
+    <string name="titulo_de_la_noticia">Titulo de la noticia</string>
+    <string name="descripcion_de_la_noticia">Descripcion de la noticia</string>
+</resources>
